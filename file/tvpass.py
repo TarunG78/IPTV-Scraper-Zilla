@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 from datetime import datetime, timedelta
 
 UPSTREAM_URL = "http://tvpass.org/playlist/m3u"
@@ -20,38 +21,31 @@ LOCKED_GROUPS = {
     }
 }
 
-# Try to find a date in the title, e.g., July 14, 2025 or 07/14 or 2025-07-14
 def extract_event_date(title):
     patterns = [
-        r"(\d{4}-\d{2}-\d{2})",       # 2025-07-14
-        r"(\d{1,2}/\d{1,2})",         # 7/14 or 07/14
-        r"([A-Za-z]+ \d{1,2})",       # July 14
+        r"(\d{4}-\d{2}-\d{2})",
+        r"(\d{1,2}/\d{1,2})",
+        r"([A-Za-z]+ \d{1,2})",
     ]
     for pattern in patterns:
         match = re.search(pattern, title)
         if match:
-            try:
-                text = match.group(1)
-                # Try parsing in various formats
-                for fmt in ("%Y-%m-%d", "%m/%d", "%B %d", "%b %d"):
-                    try:
-                        parsed = datetime.strptime(text, fmt)
-                        # If no year, assume current year
-                        if "%Y" not in fmt:
-                            parsed = parsed.replace(year=datetime.now().year)
-                        return parsed.date()
-                    except ValueError:
-                        continue
-            except Exception:
-                continue
+            text = match.group(1)
+            for fmt in ("%Y-%m-%d", "%m/%d", "%B %d", "%b %d"):
+                try:
+                    parsed = datetime.strptime(text, fmt)
+                    if "%Y" not in fmt:
+                        parsed = parsed.replace(year=datetime.now().year)
+                    return parsed.date()
+                except ValueError:
+                    continue
     return None
 
 def is_event_outdated(title):
     event_date = extract_event_date(title)
     if event_date:
-        today = datetime.now().date()
-        return event_date < today
-    return False  # Keep if no date found
+        return event_date < datetime.now().date()
+    return False
 
 def fetch_upstream_pairs():
     res = requests.get(UPSTREAM_URL, timeout=15)
@@ -72,6 +66,10 @@ def fetch_upstream_pairs():
     return pairs
 
 def parse_local_playlist():
+    if not os.path.exists(LOCAL_FILE):
+        print(f"⚠️ {LOCAL_FILE} not found. Starting fresh.")
+        return "#EXTM3U", []
+
     with open(LOCAL_FILE, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
 
