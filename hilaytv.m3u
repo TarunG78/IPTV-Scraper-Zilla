@@ -30,7 +30,7 @@ https://maldivesn.net/hilaytv/events1
 https://maldivesn.net/hilaytv/events2
 
 #EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
-https://maldivesn.net/hilaytv/channel13
+https://www.youtube.com/c/Channel13mv/live
 
 #EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV
 https://maldivesn.net/hilaytv/yeshilay
@@ -344,7 +344,7 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="Kplus.mv" tvg-name="KPOP+" tvg-logo="https://8upload.com/image/68553fc819866/kpopplushilay.png" group-title="Drama",KPOP+
 https://maldivesn.net/hilaytv/kpopplus
 
-#EXTINF:-1 tvg-name="KBS Korea Ⓨ" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" tvg-id="KBSKorea.kr" group-title="Korea","Music",KBS Korea Ⓨ
+#EXTINF:-1 tvg-name="KBS Korea" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" tvg-id="KBSKorea.kr" group-title="Korea","Music",KBS Korea 
 https://www.youtube.com/c/kbsworldtv/live
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" group-title="Korea","Music",All the K-Pop 
@@ -4071,3 +4071,6 @@ https://lsn.lv/bbcradio.m3u8?station=bbc_radio_york&bitrate=320000
 
 #EXTINF:-1 tvg-name="Radio" group-title="BBC Radio",BBC - Three Counties Radio
 https://lsn.lv/bbcradio.m3u8?station=bbc_three_counties_radio&bitrate=320000
+
+#EXTINF:-1 tvg-id="volleyballtv" tvg-name="Volleyball World" tvg-logo="https://yt3.googleusercontent.com/EyrUl_ojXxxo5NrH_7UGPeN3QxeFhb-FMxNzy_xA4E3kUz986SJiZXE_AiaBsj41wegZS4Bh=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",Volleyball World TV
+https://www.youtube.com/@volleyballworld/live
