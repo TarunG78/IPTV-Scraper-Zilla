@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(20).jpeg" alt="🔥 IPTV Scraper Zilla 🔥" width="80%">
+  <img src="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Image/logo2.jpg" alt="🔥 IPTV Scraper Zilla 🔥" width="80%">
   </a>
   <br>
 IPTV Scraper Zilla
