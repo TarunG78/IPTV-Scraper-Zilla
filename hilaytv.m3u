@@ -65,6 +65,9 @@ https://maldivesn.net/hilaytv/munnaaruhilay
 #EXTINF:-1 tvg-id="bguruan" tvg-name="Bahrain Quruan" tvg-logo="https://8upload.com/image/68419e56dfed6/bahrainquruanhilay.png" group-title="Islam",Bahrain Quruan
 https://maldivesn.net/hilaytv/bahrainquruantv
 
+#EXTINF:-1 tvg-id="shquruan" tvg-name="Sharjah Quruan" tvg-logo="https://8upload.com/image/689753073f52a/sharjaQurantvhilay.png" group-title="Islam",Sharjah Quruan
+https://maldivesn.net/hilaytv/quruantvsharja
+
 #EXTINF:-1 tvg-id="AlQuranTV.mv" tvg-name="Al Quran TV" tvg-logo="https://8upload.com/image/67da25cd4ebe6/20-alqurantv.png" group-title="Islam",Al Quran TV
 https://maldivesn.net/hilaytv/quruantv
 
