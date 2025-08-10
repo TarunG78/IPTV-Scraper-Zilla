@@ -37,12 +37,10 @@ IPTV Scraper Zilla
 ## 📑 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
-- [🛠 Installation](#-installation)
-- [📡 Usage](#-usage)
 - [📺 Playback Guide](#-playback-guide)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [💌 Contact](#-contact)
-- [❤️ Support](#️-support)
+- [❤️ Support](#️-support-this-project)
 
 ---
 
@@ -97,8 +95,6 @@ Respect copyrights.
 
 ## ❤️ Support This Project
 
-### 🎁 Donate (Free Support)
-
 Your single click = big help ☕
 
 [✨ Click here to support by clicking ✨](https://abusaeeidx.github.io/Support/)
@@ -107,12 +103,10 @@ Your single click = big help ☕
 
 ---
 
-## ✉️ Contact Me
+## ✉️ Contact
 
 - [Github](https://github.com/abusaeeidx)  
-- [Telegram](https://t.me/XFireFlix)
-
-## ✉️ Contact Me
+- [Telegram Channels](https://t.me/XFireFlix)
 
 ---
 
