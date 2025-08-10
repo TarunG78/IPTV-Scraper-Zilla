@@ -6,13 +6,13 @@
 IPTV Scraper Zilla
   <br>
 </h1>
-<h3 align="center">Auto-updating script for IPTV Channel Links and Headers (Every Day)</h3>
+<h3 align="center">Auto-updating script for IPTV Channel Links and Headers (Every Hourly)</h3>
 
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
-  <img src="https://img.shields.io/badge/Auto_Update-Every_Day-blue?style=flat-square" alt="Auto Update">
+  <img src="https://img.shields.io/badge/Auto_Update-Every_Hourly-blue?style=flat-square" alt="Auto Update">
 </p>  
 
 ---
