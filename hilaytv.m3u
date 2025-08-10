@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVMaldivesbkp" tvg-name="Hilay TV Info" tvg-logo="https://8upload.com/image/6851513ea9829/hilaytvinfo.png" group-title="info",Hilay TV Info
-https://maldivesn.net/hilaytv/hilaytv
-
 #EXTINF:-1 tvg-id="TVMaldives.mv" tvg-name="TV Maldives" tvg-logo="https://8upload.com/image/67da2268cf994/1-tvm.png" group-title="Dhivehi",TV Maldives
 https://maldivesn.net/hilaytv/tvm
 
@@ -475,6 +472,9 @@ https://maldivesn.net/hilaytv/vsportuhd
 
 #EXTINF:-1 tvg-id="realmadrid.mv" tvg-name="Real Madrid TV" tvg-logo="https://8upload.com/image/67e4a381944ee/real_madrid_tv.png" group-title="Sports",Real Madrid TV
 https://maldivesn.net/hilaytv/realmadridtv
+
+#EXTINF:-1 tvg-id="barcelonatv" tvg-name="FC Barcelona TV" tvg-logo="https://8upload.com/image/6898f7eca3292/barcelonatvhilay.png" group-title="Sports",Barcelona TV
+https://www.youtube.com/@FCBarcelona/live
 
 #EXTINF:-1 tvg-id="mutv.mv" tvg-name="Manchester United TV" tvg-logo="https://8upload.com/image/67f44c4016cbe/mutvhilay.png" group-title="Sports",Manchester United TV
 https://maldivesn.net/hilaytv/mutv
