@@ -30,7 +30,7 @@ IPTV Scraper Zilla
 ---
 ## 🚀 Quick Start
 
-1. **Access the M3U Playlist**:
+1. **Access the All Marge M3U Playlist**:
    ```text
    https://raw.githubusercontent.com/YourUsername/IPTV-Scraper-Zilla/main/iptv_zilla_playlist.m3u
 ---
