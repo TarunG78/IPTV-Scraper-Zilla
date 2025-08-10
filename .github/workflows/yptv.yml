@@ -1,0 +1,34 @@
+name: X
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: b
+        env:
+          u: ${{ secrets.s }}
+          f: ${{ secrets.f }}
+        run: |
+          curl -sSL "$u" -o "$f"
+      - name: c
+        env:
+          f: ${{ secrets.f }}
+          gu: ${{ secrets.gu }}
+          ge: ${{ secrets.ge }}
+        run: |
+          import random, string, datetime, os
+          rand_str = ''.join(random.choices(string.ascii_letters + string.digits, k=8))
+          timestamp = datetime.datetime.utcnow().strftime('%Y%m%d%H%M%S')
+          msg = f"u-{rand_str}-{timestamp}"
+          os.system(f'git config --global user.name "{os.environ["gu"]}"')
+          os.system(f'git config --global user.email "{os.environ["ge"]}"')
+          os.system(f'git add {os.environ["f"]}')
+          os.system(f'git commit -m "{msg}" || echo z')
+          os.system('git push')
+        shell: python
