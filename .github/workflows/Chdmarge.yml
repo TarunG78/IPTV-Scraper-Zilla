@@ -5,9 +5,6 @@ on:
     - cron: "*/20 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   merge:
     runs-on: ubuntu-latest
