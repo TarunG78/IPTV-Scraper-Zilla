@@ -6,22 +6,22 @@
 IPTV Scraper Zilla
   <br>
 </h1>
-<h3 align="center">Auto-updating script for IPTV Channel Links and Headers (Every Hourly)</h3>
+<h3 align="center">Auto-updating script for IPTV Channel Links and Headers (Every hour)</h3>
 
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladesh">
   </a>
-  <img src="https://img.shields.io/badge/Auto_Update-Every_Hourly-blue?style=flat-square" alt="Auto Update">
+  <img src="https://img.shields.io/badge/Auto_Update-Every_hour-blue?style=flat-square" alt="Auto Update">
 </p>  
 
 ---
 
 ## 📒 Introduction
 
-**⚡ IPTV Scraper Zilla** is a lightweight and efficient Python script designed to scrape IPTV channel links and generate both `.json` and `.m3u` playlist outputs.
+**⚡ IPTV Scraper Zilla** is a lightweight and efficient script designed to scrape IPTV channel links and generate `.m3u` playlist outputs.
 
-⏱️ The script auto-updates channel data every **Every Day** .
+⏱️ The script auto-updates channel data every **Every hour** .
 
 🎯 Ideal for building IPTV playlists and exploring web scraping techniques for IPTV channels.
 
@@ -47,7 +47,7 @@ IPTV Scraper Zilla
 ## ✨ Features
 
 - 🔄 **Auto-updating**: Refreshes channel links every day via GitHub Actions
-- 📁 **Multiple Formats**: Outputs playlists in JSON and M3U formats
+- 📁 **Multiple Formats**: Outputs playlists M3U formats
 - ⚡ **Optimized Scraping**: Fast and efficient algorithm for IPTV channel extraction
 - 📱 **Device Support**: Compatible with Android, Android TV, and other IPTV players
 - 🧠 **Educational**: Perfect for learning IPTV scraping and playlist generation
