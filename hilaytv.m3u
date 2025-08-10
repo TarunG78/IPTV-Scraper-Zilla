@@ -71,6 +71,9 @@ https://maldivesn.net/hilaytv/quruantv
 #EXTINF:-1 tvg-id="Islamch.mv" tvg-name="Islam Channel UK" tvg-logo="https://8upload.com/image/67da25cd59fdd/21-islam_channel_UK.png" group-title="Islam",Islam Channel UK
 https://maldivesn.net/hilaytv/islamch
 
+#EXTINF:-1 tvg-id="hilaaltv" tvg-name="Hilaal TV" tvg-logo="https://8upload.com/image/68990253844ec/hilaaltvhilay.png" group-title="Islam",Hilaal TV
+https://maldivesn.net/hilaytv/hilaaltv
+
 #EXTINF:-1 tvg-id="Peacetv.mv" tvg-name="Peace TV HD" tvg-logo="https://8upload.com/image/67da25cd6c28c/22-peachtvhd.png" group-title="Islam",Peace TV HD
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
