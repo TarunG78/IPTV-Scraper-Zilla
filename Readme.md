@@ -32,7 +32,7 @@ IPTV Scraper Zilla
 
 1. **Access the All Marge M3U Playlist**:
    ```text
-   https://raw.githubusercontent.com/YourUsername/IPTV-Scraper-Zilla/main/iptv_zilla_playlist.m3u
+   https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
 ---
 ## 📑 Table of Contents
 - [✨ Features](#-features)
@@ -60,14 +60,14 @@ IPTV Scraper Zilla
 Use Network Stream Player
 
 Add this Playlist:  
-👉 [https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u](https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u)
+👉 [https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u](https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u)
 
 ### 🖥️ Android TV
 
 Use OTT Navigator
 
 Add this Playlist:  
-👉 [https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u](https://raw.githubusercontent.com/XFireFlix/CricHD-S2-AutoScraper/main/crichd_s2_playlist.m3u)
+👉 [https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u](https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u)
 
 Enjoy 😊
 
