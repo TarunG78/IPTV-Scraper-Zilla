@@ -28,7 +28,12 @@ IPTV Scraper Zilla
 > ⚠️ This tool is for **educational and research purposes only**. Always comply with local laws and regulations.
 
 ---
+## 🚀 Quick Start
 
+1. **Access the M3U Playlist**:
+   ```text
+   https://raw.githubusercontent.com/YourUsername/IPTV-Scraper-Zilla/main/iptv_zilla_playlist.m3u
+---
 ## 📑 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
@@ -96,7 +101,7 @@ Respect copyrights.
 
 Your single click = big help ☕
 
-[✨ Click here to support by clicking ✨](https://xfireflix.github.io/support/)
+[✨ Click here to support by clicking ✨](https://abusaeeidx.github.io/Support/)
 
 
 
@@ -104,7 +109,7 @@ Your single click = big help ☕
 
 ## ✉️ Contact Me
 
-- [Github](https://github.com/XFireFlix)  
+- [Github](https://github.com/abusaeeidx)  
 - [Telegram](https://t.me/XFireFlix)
 
 ## ✉️ Contact Me
@@ -114,9 +119,3 @@ Your single click = big help ☕
 ## 🏷️ Tags
 
 `#CricHD` `#AutoScraper` `#IPTV` `#Python` `#M3U` `#Server2` `#WebScraper` `HDCric-Scraper` `CricScraper-S2` `CricHD Scraper V2`
-
-## 🚀 Quick Start
-
-1. **Access the M3U Playlist**:
-   ```text
-   https://raw.githubusercontent.com/YourUsername/IPTV-Scraper-Zilla/main/iptv_zilla_playlist.m3u
