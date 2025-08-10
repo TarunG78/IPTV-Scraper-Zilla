@@ -6,31 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  a:
+  j1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Download Playlist
+      - name: s1
         env:
-          u: ${{ secrets.s }}
-          f: ${{ secrets.f }}
-        run: |
-          curl -sSL "$u" -o "$f"
-
-      - name: Commit Changes
-        env:
-          f: ${{ secrets.f }}
-          gu: ${{ secrets.gu }}
-          ge: ${{ secrets.ge }}
+          a1: ${{ secrets.s }}
+          b2: ${{ secrets.f }}
+          c3: ${{ secrets.gu }}
+          d4: ${{ secrets.ge }}
         run: |
           import datetime, os
-          timestamp = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-          msg = f"Last Update Time: {timestamp}"
-          os.system(f'git config --global user.name "{os.environ["gu"]}"')
-          os.system(f'git config --global user.email "{os.environ["ge"]}"')
-          os.system(f'git add {os.environ["f"]}')
-          os.system(f'git commit -m "{msg}" || echo "No changes to commit"')
+          t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+          m = f"LUT-{t.replace(' ', '').replace(':','')}"
+          os.system(f'curl -sSL "{os.environ["a1"]}" -o "{os.environ["b2"]}"')
+          os.system(f'git config --global user.name "{os.environ["c3"]}"')
+          os.system(f'git config --global user.email "{os.environ["d4"]}"')
+          os.system(f'git add {os.environ["b2"]}')
+          os.system(f'git commit -m "{m}" || echo x')
           os.system('git push')
-          print(f"Commit message used: {msg}")
+          print(f"MSG:{m}")
         shell: python
