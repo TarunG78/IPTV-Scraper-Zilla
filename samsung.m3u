@@ -437,16 +437,24 @@ https://jmp2.uk/sam-USBD3000073N.m3u8
 https://jmp2.uk/sam-IN2600020H9.m3u8
 #EXTINF:-1 channel-id="samsung-CA15000018F" tvg-id="CA15000018F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA15000018F_20250401T004701SQUARE.png" group-title="News & Opinion" tvg-chno="1122",CBC News BC
 https://jmp2.uk/sam-CA15000018F.m3u8
+#EXTINF:-1 channel-id="samsung-USBC15000058Z" tvg-id="USBC15000058Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC15000058Z_20241112T001127SQUARE.png" group-title="News & Opinion" tvg-chno="1122",NBC Dallas Fort Worth News
+https://jmp2.uk/sam-USBC15000058Z.m3u8
 #EXTINF:-1 channel-id="samsung-CA4600010PN" tvg-id="CA4600010PN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600010PN_20250401T004709SQUARE.png" group-title="News & Opinion" tvg-chno="1123",CBC News Calgary
 https://jmp2.uk/sam-CA4600010PN.m3u8
 #EXTINF:-1 channel-id="samsung-IN26000147D" tvg-id="IN26000147D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250625T011521SQUARE.png" group-title="Entertainment" tvg-chno="1123",Colors Infinity Lite
 https://jmp2.uk/sam-IN26000147D.m3u8
+#EXTINF:-1 channel-id="samsung-USBD17000129L" tvg-id="USBD17000129L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000129L_20241112T001415SQUARE.png" group-title="News & Opinion" tvg-chno="1123",CBS News Texas
+https://jmp2.uk/sam-USBD17000129L.m3u8
 #EXTINF:-1 channel-id="samsung-CA4600008AI" tvg-id="CA4600008AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600008AI_20250401T004712SQUARE.png" group-title="News & Opinion" tvg-chno="1124",CBC News Edmonton
 https://jmp2.uk/sam-CA4600008AI.m3u8
+#EXTINF:-1 channel-id="samsung-USBD1200013ET" tvg-id="USBD1200013ET" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200013ET_20241112T001543SQUARE.png" group-title="News & Opinion" tvg-chno="1124",Fox 4 Dallas - Fort Worth
+https://jmp2.uk/sam-USBD1200013ET.m3u8
 #EXTINF:-1 channel-id="samsung-CA4600012O1" tvg-id="CA4600012O1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600012O1_20250401T004715SQUARE.png" group-title="News & Opinion" tvg-chno="1125",CBC News Manitoba
 https://jmp2.uk/sam-CA4600012O1.m3u8
 #EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="Entertainment" tvg-chno="1125",Pitaara Comedy
 https://jmp2.uk/sam-IN1600001OG.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3500046GS" tvg-id="USBD3500046GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500046GS_20241112T001656SQUARE.png" group-title="News & Opinion" tvg-chno="1125",WFAA
+https://jmp2.uk/sam-USBD3500046GS.m3u8
 #EXTINF:-1 channel-id="samsung-CA4600006DO" tvg-id="CA4600006DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600006DO_20250401T004718SQUARE.png" group-title="News & Opinion" tvg-chno="1126",CBC News New Brunswick
 https://jmp2.uk/sam-CA4600006DO.m3u8
 #EXTINF:-1 channel-id="samsung-IN3000001V5" tvg-id="IN3000001V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000001V5_20240828T013141SQUARE.png" group-title="Entertainment" tvg-chno="1126",TeluguOne TV
@@ -481,8 +489,8 @@ https://jmp2.uk/sam-IN2700003S1.m3u8
 https://jmp2.uk/sam-CA1500002Q4.m3u8
 #EXTINF:-1 channel-id="samsung-CA4600015MG" tvg-id="CA4600015MG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600015MG_20250401T004741SQUARE.png" group-title="News & Opinion" tvg-chno="1135",CBC News Windsor
 https://jmp2.uk/sam-CA4600015MG.m3u8
-#EXTINF:-1 channel-id="samsung-USBC1500009LD" tvg-id="USBC1500009LD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20241112T000830SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WeatherNation
-https://jmp2.uk/sam-USBC1500009LD.m3u8
+#EXTINF:-1 channel-id="samsung-USBC1500014UR" tvg-id="USBC1500014UR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500014UR_20241112T001922SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WN Dallas/Ft Worth
+https://jmp2.uk/sam-USBC1500014UR.m3u8
 #EXTINF:-1 channel-id="samsung-CABC23000223U" tvg-id="CABC23000223U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20250729T185435SQUARE.png" group-title="News & Opinion" tvg-chno="1138",The Weather Network
 https://jmp2.uk/sam-CABC23000223U.m3u8
 #EXTINF:-1 channel-id="samsung-US4000033L" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="News & Opinion" tvg-chno="1140",BBC News
@@ -1569,6 +1577,8 @@ https://jmp2.uk/sam-US4600005ST.m3u8
 https://jmp2.uk/sam-USBD1700016X9.m3u8
 #EXTINF:-1 channel-id="samsung-US2700004DX" tvg-id="US2700004DX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20240826T235608SQUARE.png" group-title="Latino" tvg-chno="3822",beIN Sports XTRA ñ
 https://jmp2.uk/sam-US2700004DX.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400018D0" tvg-id="USBC4400018D0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400018D0_20241112T001758SQUARE.png" group-title="Latino" tvg-chno="3840",Telemundo Texas
+https://jmp2.uk/sam-USBC4400018D0.m3u8
 #EXTINF:-1 channel-id="samsung-US41000060J" tvg-id="US41000060J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US41000060J_20250401T004920SQUARE.png" group-title="Latino" tvg-chno="3846",WAPA+
 https://jmp2.uk/sam-US41000060J.m3u8
 #EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20250505T232646SQUARE.png" group-title="Latino" tvg-chno="3850",Telemundo Al Día
