@@ -1,61 +1,61 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Baltimore Orioles - 8/12/25, 10:36:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Seattle Mariners @ Baltimore Orioles - 8/12/25, 10:36:00 PM UTC
-https://v15.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8?token=Wej8_2gFt0V8bOOa9y1vJg&expires=1755059489&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v16.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8?token=4WEA_lELyRyJ59iMiXCFwA&expires=1755063085&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Baltimore Orioles - 8/12/25, 10:36:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Seattle Mariners @ Baltimore Orioles - 8/12/25, 10:36:00 PM UTC
-https://v3.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8?token=1ZP7mh4UppaKINwKJ3Q9XQ&expires=1755059494&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=N9FXaVPFN98znI4MhRS2Tw&expires=1755063090&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Cincinnati Reds - 8/12/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Philadelphia Phillies @ Cincinnati Reds - 8/12/25, 10:41:00 PM UTC
-https://v3.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8?token=7Vf4T26aJIYhAmgwRaNRfQ&expires=1755059498&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v15.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8?token=HC3yCrv3BOwusb9dTMHXXw&expires=1755063094&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Cincinnati Reds - 8/12/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Philadelphia Phillies @ Cincinnati Reds - 8/12/25, 10:41:00 PM UTC
-https://v2.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8?token=Ee9FREJI8Q7gZABDeHzMKA&expires=1755059503&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=LLZZ-YQ5xCpc3ulJ0On9CQ&expires=1755063099&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Cleveland Guardians - 8/12/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Miami Marlins @ Cleveland Guardians - 8/12/25, 10:41:00 PM UTC
-https://v2.thetvapp.to/hls/mlb-30/tracks-v2a1/mono.m3u8?token=TvLZizXme2sA21xsTh17zw&expires=1755059508&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v15.thetvapp.to/hls/mlb-30/tracks-v2a1/mono.m3u8?token=O-V4z5jrXPo9u2sBlMSsMw&expires=1755063104&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Cleveland Guardians - 8/12/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Miami Marlins @ Cleveland Guardians - 8/12/25, 10:41:00 PM UTC
-https://v2.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8?token=tnffcU7MjEAl0F9Lum0hXQ&expires=1755059512&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=DtdVpxinTDfxoZNXyOnSqA&expires=1755063108&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ New York Yankees - 8/12/25, 11:06:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Minnesota Twins @ New York Yankees - 8/12/25, 11:06:00 PM UTC
-https://v14.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8?token=ffhTs0XeeT10aZThlvFwug&expires=1755059517&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v14.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8?token=2pde98uvUigomV9moc2mjg&expires=1755063113&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ New York Yankees - 8/12/25, 11:06:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Minnesota Twins @ New York Yankees - 8/12/25, 11:06:00 PM UTC
-https://v13.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8?token=jGLyQknvQEyJhoU37rdOBw&expires=1755059522&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=imkV8tPZiZm33duKx-ahNg&expires=1755063117&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Toronto Blue Jays - 8/12/25, 11:08:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Chicago Cubs @ Toronto Blue Jays - 8/12/25, 11:08:00 PM UTC
-https://v13.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8?token=6-r2NwNx2c1vCAdElZF1-A&expires=1755059526&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v3.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8?token=pD-1dM1U_B--wsLstgUtqQ&expires=1755063122&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Toronto Blue Jays - 8/12/25, 11:08:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Chicago Cubs @ Toronto Blue Jays - 8/12/25, 11:08:00 PM UTC
-https://v18.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8?token=lgYd29QO6YnpK3A9tuQPmQ&expires=1755059531&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=7OPo7M95dtCaazJZ6puHnw&expires=1755063127&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ New York Mets - 8/12/25, 11:11:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Atlanta Braves @ New York Mets - 8/12/25, 11:11:00 PM UTC
-https://v18.thetvapp.to/hls/mlb-24/tracks-v2a1/mono.m3u8?token=NRd54nz_ZTyCGBuQ5dfGOA&expires=1755059536&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v4.thetvapp.to/hls/mlb-24/tracks-v2a1/mono.m3u8?token=VA-NG4tN-IviuIghvNlUzQ&expires=1755063131&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ New York Mets - 8/12/25, 11:11:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Atlanta Braves @ New York Mets - 8/12/25, 11:11:00 PM UTC
-https://v1.thetvapp.to/hls/mlb-24/tracks-v1a1/mono.m3u8?token=0hP0YQzrp4Cidt8HNQvlrA&expires=1755059540&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=5-jbRGIaReRN-p7tCrry1Q&expires=1755063136&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Chicago White Sox - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Detroit Tigers @ Chicago White Sox - 8/12/25, 11:41:00 PM UTC
-https://v1.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8?token=MjxXUWtj5iayDtf7X9VPBw&expires=1755059545&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v18.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8?token=HTlk_Cb-ZidOb3AMjNQIxQ&expires=1755063141&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers @ Chicago White Sox - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Detroit Tigers @ Chicago White Sox - 8/12/25, 11:41:00 PM UTC
-https://v15.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8?token=CeL_lz_PV41vgurVk4vkmA&expires=1755059550&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=s0LdQKfiz1x5rFMvLyZXZA&expires=1755063145&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Kansas City Royals - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Washington Nationals @ Kansas City Royals - 8/12/25, 11:41:00 PM UTC
-https://v17.thetvapp.to/hls/mlb-05/tracks-v2a1/mono.m3u8?token=d2mE_AMzWJMS1E5_fl1vNg&expires=1755059554&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v1.thetvapp.to/hls/mlb-05/tracks-v2a1/mono.m3u8?token=7zQFa4PqL5X9PYMl_Y7x1g&expires=1755063150&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Kansas City Royals - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Washington Nationals @ Kansas City Royals - 8/12/25, 11:41:00 PM UTC
-https://v14.thetvapp.to/hls/mlb-05/tracks-v1a1/mono.m3u8?token=TUv9xToMxWGBzK-ooK3ptg&expires=1755059559&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=G59J8P7aJGCIajNTokRmkA&expires=1755063155&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates @ Milwaukee Brewers - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Pittsburgh Pirates @ Milwaukee Brewers - 8/12/25, 11:41:00 PM UTC
-https://v14.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8?token=C8e6SYWICBkKAl33anaIUQ&expires=1755059563&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v13.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8?token=j18N2o9my8X3LvNVDw3Hfg&expires=1755063159&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates @ Milwaukee Brewers - 8/12/25, 11:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Pittsburgh Pirates @ Milwaukee Brewers - 8/12/25, 11:41:00 PM UTC
-https://v14.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8?token=OF1L6IaTbU8xjf1DhNDt2g&expires=1755059568&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=0eBwLynLbsJnFARpCV9ssQ&expires=1755063164&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ St. Louis Cardinals - 8/12/25, 11:46:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Colorado Rockies @ St. Louis Cardinals - 8/12/25, 11:46:00 PM UTC
-https://v12.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8?token=s3GlKHcMa4F3AVbK1E2vLw&expires=1755059573&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v14.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8?token=_PMpZBrVH3fk3yb0b7SNZA&expires=1755063168&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ St. Louis Cardinals - 8/12/25, 11:46:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Colorado Rockies @ St. Louis Cardinals - 8/12/25, 11:46:00 PM UTC
-https://v4.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8?token=mKsvkKQsB8y0XX_viMCBlA&expires=1755059577&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=cRAa2kEX-vIFQLueV3Xgbg&expires=1755063173&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Texas Rangers - 8/13/25, 12:06:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Arizona Diamondbacks @ Texas Rangers - 8/13/25, 12:06:00 AM UTC
-https://v16.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8?token=d8bE6gInfwp4f9krcgGJsg&expires=1755059582&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v5.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8?token=VtTLRCWxtZsDHG40b0PrkQ&expires=1755063178&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks @ Texas Rangers - 8/13/25, 12:06:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Arizona Diamondbacks @ Texas Rangers - 8/13/25, 12:06:00 AM UTC
-https://v8.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8?token=gWpWYuXfbdhkkrS-hGbX1A&expires=1755059587&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=wxKLOfrTQiT8qZrOc9aJ6A&expires=1755063182&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Houston Astros - 8/13/25, 12:11:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Boston Red Sox @ Houston Astros - 8/13/25, 12:11:00 AM UTC
-https://v8.thetvapp.to/hls/mlb-06/tracks-v2a1/mono.m3u8?token=Pwmtts7jEH5Evv4xIUhaDw&expires=1755059591&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v8.thetvapp.to/hls/mlb-06/tracks-v2a1/mono.m3u8?token=b7ncBIRnnGs68nbJ7zGWmw&expires=1755063187&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Houston Astros - 8/13/25, 12:11:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Boston Red Sox @ Houston Astros - 8/13/25, 12:11:00 AM UTC
-https://v8.thetvapp.to/hls/mlb-06/tracks-v1a1/mono.m3u8?token=yyUHj7AnjydyRTkbdEtG3g&expires=1755059596&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v8.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=3ceeLvyCGWdmi0E6e5Z3aA&expires=1755063192&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Los Angeles Angels - 8/13/25, 1:39:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Los Angeles Dodgers @ Los Angeles Angels - 8/13/25, 1:39:00 AM UTC
-https://v5.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8?token=pRabSaKRhV0BJecKQfreig&expires=1755059601&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v16.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8?token=0QIq3azZR9uIXMm6ociJUg&expires=1755063196&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Los Angeles Angels - 8/13/25, 1:39:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Los Angeles Dodgers @ Los Angeles Angels - 8/13/25, 1:39:00 AM UTC
-https://v1.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8?token=QIK4xbuP9wxAT20Cn8E2hQ&expires=1755059605&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=VFPDIAetm18Qr2cYzCLEGQ&expires=1755063201&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ San Francisco Giants - 8/13/25, 1:46:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",San Diego Padres @ San Francisco Giants - 8/13/25, 1:46:00 AM UTC
-https://v13.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8?token=wZPY0b2rpz7qcAfb7Ri0qg&expires=1755059610&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v17.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8?token=WwjJqkL97l_EUDOa6F406w&expires=1755063206&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ San Francisco Giants - 8/13/25, 1:46:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",San Diego Padres @ San Francisco Giants - 8/13/25, 1:46:00 AM UTC
-https://v13.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8?token=DrFI-qij9gUxvTaZp6Kg2A&expires=1755059615&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=IqdcFVmmVD2AU_9gOH3_3w&expires=1755063210&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Oakland Athletics - 8/13/25, 2:06:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Tampa Bay Rays @ Oakland Athletics - 8/13/25, 2:06:00 AM UTC
-https://v15.thetvapp.to/hls/mlb-19/tracks-v2a1/mono.m3u8?token=zt_HdrzbEuGUJlrqf1Ecig&expires=1755059619&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v1.thetvapp.to/hls/mlb-19/tracks-v2a1/mono.m3u8?token=9RGQa6uDP6o3A9_as54Jnw&expires=1755063215&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Oakland Athletics - 8/13/25, 2:06:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Tampa Bay Rays @ Oakland Athletics - 8/13/25, 2:06:00 AM UTC
-https://v15.thetvapp.to/hls/mlb-19/tracks-v1a1/mono.m3u8?token=DZ_xuJ5xQn6LocxgtgUmLw&expires=1755059624&user_id=Q1hQNG1RNnh5OTVTT2tvSk9MOGg2QjNmMnZGYkhuYlBnQVJpeURZNA==
+https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=a8JW9qJ287GyiQwQQ16uCw&expires=1755063219&user_id=Qm5EY09uZU02ZEtrbHMxVjh3WnFDZFc0UjFPeWQ1VGw3Q1hWeVlmUg==
