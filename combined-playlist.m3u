@@ -11483,6 +11483,74 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="TVPass",Yes Network HD
 https://tvpass.org/live/yes-network/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Pittsburgh Pirates (08/24 12:06 Pm Et) Sd" tvg-logo="" group-title="TVPass",Colorado Rockies @ Pittsburgh Pirates (08/24 12:06 Pm Et) Sd
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Pittsburgh Pirates (08/24 12:06 Pm Et) Hd" tvg-logo="" group-title="TVPass",Colorado Rockies @ Pittsburgh Pirates (08/24 12:06 Pm Et) Hd
+https://tvpass.org/live/mlb-26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals @ Tampa Bay Rays (08/24 12:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",St. Louis Cardinals @ Tampa Bay Rays (08/24 12:11 Pm Et) Sd
+https://tvpass.org/live/mlb-11/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="St. Louis Cardinals @ Tampa Bay Rays (08/24 12:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",St. Louis Cardinals @ Tampa Bay Rays (08/24 12:11 Pm Et) Hd
+https://tvpass.org/live/mlb-11/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Atlanta Braves (08/24 1:36 Pm Et) Sd" tvg-logo="" group-title="TVPass",New York Mets @ Atlanta Braves (08/24 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Atlanta Braves (08/24 1:36 Pm Et) Hd" tvg-logo="" group-title="TVPass",New York Mets @ Atlanta Braves (08/24 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ Baltimore Orioles (08/24 1:36 Pm Et) Sd" tvg-logo="" group-title="TVPass",Houston Astros @ Baltimore Orioles (08/24 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ Baltimore Orioles (08/24 1:36 Pm Et) Hd" tvg-logo="" group-title="TVPass",Houston Astros @ Baltimore Orioles (08/24 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Philadelphia Phillies (08/24 1:36 Pm Et) Sd" tvg-logo="" group-title="TVPass",Washington Nationals @ Philadelphia Phillies (08/24 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-18/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ Philadelphia Phillies (08/24 1:36 Pm Et) Hd" tvg-logo="" group-title="TVPass",Washington Nationals @ Philadelphia Phillies (08/24 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-18/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Detroit Tigers (08/24 1:41 Pm Et) Sd" tvg-logo="" group-title="TVPass",Kansas City Royals @ Detroit Tigers (08/24 1:41 Pm Et) Sd
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Detroit Tigers (08/24 1:41 Pm Et) Hd" tvg-logo="" group-title="TVPass",Kansas City Royals @ Detroit Tigers (08/24 1:41 Pm Et) Hd
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Miami Marlins (08/24 1:41 Pm Et) Sd" tvg-logo="" group-title="TVPass",Toronto Blue Jays @ Miami Marlins (08/24 1:41 Pm Et) Sd
+https://tvpass.org/live/mlb-07/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Miami Marlins (08/24 1:41 Pm Et) Hd" tvg-logo="" group-title="TVPass",Toronto Blue Jays @ Miami Marlins (08/24 1:41 Pm Et) Hd
+https://tvpass.org/live/mlb-07/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Chicago White Sox (08/24 2:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",Minnesota Twins @ Chicago White Sox (08/24 2:11 Pm Et) Sd
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins @ Chicago White Sox (08/24 2:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",Minnesota Twins @ Chicago White Sox (08/24 2:11 Pm Et) Hd
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Texas Rangers (08/24 2:36 Pm Et) Sd" tvg-logo="" group-title="TVPass",Cleveland Guardians @ Texas Rangers (08/24 2:36 Pm Et) Sd
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Texas Rangers (08/24 2:36 Pm Et) Hd" tvg-logo="" group-title="TVPass",Cleveland Guardians @ Texas Rangers (08/24 2:36 Pm Et) Hd
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Washington Mystics (08/24 3:00 Pm Et) Sd" tvg-logo="" group-title="TVPass",Seattle Storm @ Washington Mystics (08/24 3:00 Pm Et) Sd
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Washington Mystics (08/24 3:00 Pm Et) Hd" tvg-logo="" group-title="TVPass",Seattle Storm @ Washington Mystics (08/24 3:00 Pm Et) Hd
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Golden State Valkyries @ Dallas Wings (08/24 4:00 Pm Et) Sd" tvg-logo="" group-title="TVPass",Golden State Valkyries @ Dallas Wings (08/24 4:00 Pm Et) Sd
+https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Golden State Valkyries @ Dallas Wings (08/24 4:00 Pm Et) Hd" tvg-logo="" group-title="TVPass",Golden State Valkyries @ Dallas Wings (08/24 4:00 Pm Et) Hd
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Los Angeles Angels (08/24 4:08 Pm Et) Sd" tvg-logo="" group-title="TVPass",Chicago Cubs @ Los Angeles Angels (08/24 4:08 Pm Et) Sd
+https://tvpass.org/live/mlb-29/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Los Angeles Angels (08/24 4:08 Pm Et) Hd" tvg-logo="" group-title="TVPass",Chicago Cubs @ Los Angeles Angels (08/24 4:08 Pm Et) Hd
+https://tvpass.org/live/mlb-29/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Arizona Diamondbacks (08/24 4:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",Cincinnati Reds @ Arizona Diamondbacks (08/24 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Arizona Diamondbacks (08/24 4:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",Cincinnati Reds @ Arizona Diamondbacks (08/24 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-09/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ San Diego Padres (08/24 4:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",Los Angeles Dodgers @ San Diego Padres (08/24 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ San Diego Padres (08/24 4:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",Los Angeles Dodgers @ San Diego Padres (08/24 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-02/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Seattle Mariners (08/24 4:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",Oakland Athletics @ Seattle Mariners (08/24 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Seattle Mariners (08/24 4:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",Oakland Athletics @ Seattle Mariners (08/24 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-10/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ Minnesota Lynx (08/24 7:00 Pm Et) Sd" tvg-logo="" group-title="TVPass",Indiana Fever @ Minnesota Lynx (08/24 7:00 Pm Et) Sd
+https://tvpass.org/live/WNBA03/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ Minnesota Lynx (08/24 7:00 Pm Et) Hd" tvg-logo="" group-title="TVPass",Indiana Fever @ Minnesota Lynx (08/24 7:00 Pm Et) Hd
+https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ New York Yankees (08/24 7:11 Pm Et) Sd" tvg-logo="" group-title="TVPass",Boston Red Sox @ New York Yankees (08/24 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ New York Yankees (08/24 7:11 Pm Et) Hd" tvg-logo="" group-title="TVPass",Boston Red Sox @ New York Yankees (08/24 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-15/hd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/PPV-Events.jpg" group-title="daddylive-schedule",Super DIRTcar Series Ransomville (22:00 UK GMT)
 https://windnew.newkso.ru/wind/premium68/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/PPV-Events.jpg" group-title="daddylive-schedule",2025 NAPA All Star Circuit of Champions at Wayne County Speedway (22:00 UK GMT)
