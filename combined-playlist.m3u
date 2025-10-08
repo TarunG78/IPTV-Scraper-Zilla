@@ -5235,6 +5235,38 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="TVPass",Yes Network
 https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Detroit Tigers (10/08 3:08 Pm Et)" tvg-logo="" group-title="TVPass",Seattle Mariners @ Detroit Tigers (10/08 3:08 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Chicago Cubs (10/08 5:08 Pm Et)" tvg-logo="" group-title="TVPass",Milwaukee Brewers @ Chicago Cubs (10/08 5:08 Pm Et)
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ New York Yankees (10/08 7:08 Pm Et)" tvg-logo="" group-title="TVPass",Toronto Blue Jays @ New York Yankees (10/08 7:08 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Toronto Maple Leafs (10/08 7:10 PM ET)" group-title="TVPass",Montréal Canadiens @ Toronto Maple Leafs (10/08 7:10 PM ET)
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="" tvg-name="Missouri State Bears @ Middle Tennessee Blue Raiders (10/08 7:30 PM ET)" group-title="TVPass",Missouri State Bears @ Middle Tennessee Blue Raiders (10/08 7:30 PM ET)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Miami Heat (10/08 7:40 PM ET)" group-title="TVPass",San Antonio Spurs @ Miami Heat (10/08 7:40 PM ET)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Washington Capitals (10/08 7:40 PM ET)" group-title="TVPass",Boston Bruins @ Washington Capitals (10/08 7:40 PM ET)
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="" tvg-name="Liberty Flames @ UTEP Miners (10/08 8:00 PM ET)" group-title="TVPass",Liberty Flames @ UTEP Miners (10/08 8:00 PM ET)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Phoenix Mercury (10/08 8:00 Pm Et)" tvg-logo="" group-title="TVPass",Las Vegas Aces @ Phoenix Mercury (10/08 8:00 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Memphis Grizzlies (10/08 8:10 PM ET)" group-title="TVPass",Boston Celtics @ Memphis Grizzlies (10/08 8:10 PM ET)
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="" tvg-name="Utah Jazz @ Houston Rockets (10/08 8:10 PM ET)" group-title="TVPass",Utah Jazz @ Houston Rockets (10/08 8:10 PM ET)
+https://tvpass.org/live/space-city-home-network/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Los Angeles Dodgers (10/08 9:08 Pm Et)" tvg-logo="" group-title="TVPass",Philadelphia Phillies @ Los Angeles Dodgers (10/08 9:08 Pm Et)
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Golden State Warriors (10/08 10:10 PM ET)" group-title="TVPass",Portland Trail Blazers @ Golden State Warriors (10/08 10:10 PM ET)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Sacramento Kings (10/08 10:10 PM ET)" group-title="TVPass",Toronto Raptors @ Sacramento Kings (10/08 10:10 PM ET)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Edmonton Oilers (10/08 10:10 PM ET)" group-title="TVPass",Calgary Flames @ Edmonton Oilers (10/08 10:10 PM ET)
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Vegas Golden Knights (10/08 10:10 PM ET)" group-title="TVPass",Los Angeles Kings @ Vegas Golden Knights (10/08 10:10 PM ET)
+https://tvpass.org/live/TNTEast/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
