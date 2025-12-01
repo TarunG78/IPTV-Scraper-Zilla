@@ -5235,52 +5235,6 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="TVPass",Yes Network
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Saints @ Miami Dolphins (11/30 1:00 PM ET)" group-title="TVPass",New Orleans Saints @ Miami Dolphins (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Jacksonville Jaguars @ Tennessee Titans (11/30 1:00 PM ET)" group-title="TVPass",Jacksonville Jaguars @ Tennessee Titans (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Texans @ Indianapolis Colts (11/30 1:00 PM ET)" group-title="TVPass",Houston Texans @ Indianapolis Colts (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Francisco 49ers @ Cleveland Browns (11/30 1:00 PM ET)" group-title="TVPass",San Francisco 49ers @ Cleveland Browns (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Cardinals @ Tampa Bay Buccaneers (11/30 1:00 PM ET)" group-title="TVPass",Arizona Cardinals @ Tampa Bay Buccaneers (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL13/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Falcons @ New York Jets (11/30 1:00 PM ET)" group-title="TVPass",Atlanta Falcons @ New York Jets (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Rams @ Carolina Panthers (11/30 1:00 PM ET)" group-title="TVPass",Los Angeles Rams @ Carolina Panthers (11/30 1:00 PM ET)
-https://tvpass.org/live/NFL14/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ New York Islanders (11/30 1:10 PM ET)" group-title="TVPass",Washington Capitals @ New York Islanders (11/30 1:10 PM ET)
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Utah Jazz (11/30 3:10 PM ET)" group-title="TVPass",Houston Rockets @ Utah Jazz (11/30 3:10 PM ET)
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ Chicago Blackhawks (11/30 3:40 PM ET)" group-title="TVPass",Anaheim Ducks @ Chicago Blackhawks (11/30 3:40 PM ET)
-https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Vikings @ Seattle Seahawks (11/30 4:05 PM ET)" group-title="TVPass",Minnesota Vikings @ Seattle Seahawks (11/30 4:05 PM ET)
-https://tvpass.org/live/NFL05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Raiders @ Los Angeles Chargers (11/30 4:25 PM ET)" group-title="TVPass",Las Vegas Raiders @ Los Angeles Chargers (11/30 4:25 PM ET)
-https://tvpass.org/live/NFL19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Pittsburgh Steelers (11/30 4:25 PM ET)" group-title="TVPass",Buffalo Bills @ Pittsburgh Steelers (11/30 4:25 PM ET)
-https://tvpass.org/live/NFL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Carolina Hurricanes (11/30 5:10 PM ET)" group-title="TVPass",Calgary Flames @ Carolina Hurricanes (11/30 5:10 PM ET)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Philadelphia 76ers (11/30 6:10 PM ET)" group-title="TVPass",Atlanta Hawks @ Philadelphia 76ers (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Dallas Stars (11/30 6:10 PM ET)" group-title="TVPass",Ottawa Senators @ Dallas Stars (11/30 6:10 PM ET)
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ Portland Trail Blazers (11/30 6:10 PM ET)" group-title="TVPass",Oklahoma City Thunder @ Portland Trail Blazers (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ New York Knicks (11/30 6:10 PM ET)" group-title="TVPass",Toronto Raptors @ New York Knicks (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Cleveland Cavaliers (11/30 6:10 PM ET)" group-title="TVPass",Boston Celtics @ Cleveland Cavaliers (11/30 6:10 PM ET)
-https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Minnesota Timberwolves (11/30 7:10 PM ET)" group-title="TVPass",San Antonio Spurs @ Minnesota Timberwolves (11/30 7:10 PM ET)
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Denver Broncos @ Washington Commanders (11/30 8:20 PM ET)" group-title="TVPass",Denver Broncos @ Washington Commanders (11/30 8:20 PM ET)
-https://tvpass.org/live/NFL20/sd
-#EXTINF:-1 tvg-id="" tvg-name="Memphis Grizzlies @ Sacramento Kings (11/30 9:10 PM ET)" group-title="TVPass",Memphis Grizzlies @ Sacramento Kings (11/30 9:10 PM ET)
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Los Angeles Lakers (11/30 9:40 PM ET)" group-title="TVPass",New Orleans Pelicans @ Los Angeles Lakers (11/30 9:40 PM ET)
-https://tvpass.org/live/NBA27/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
