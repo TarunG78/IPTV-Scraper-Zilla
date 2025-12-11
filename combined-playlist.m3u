@@ -5235,6 +5235,42 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="TVPass",Yes Network
 https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="" tvg-name="Anaheim Ducks @ New York Islanders (12/11 7:10 PM ET)" group-title="TVPass",Anaheim Ducks @ New York Islanders (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Carolina Hurricanes @ Washington Capitals (12/11 7:10 PM ET)" group-title="TVPass",Carolina Hurricanes @ Washington Capitals (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Columbus Blue Jackets (12/11 7:10 PM ET)" group-title="TVPass",Ottawa Senators @ Columbus Blue Jackets (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Pittsburgh Penguins (12/11 7:10 PM ET)" group-title="TVPass",Montréal Canadiens @ Pittsburgh Penguins (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Lightning @ New Jersey Devils (12/11 7:10 PM ET)" group-title="TVPass",Tampa Bay Lightning @ New Jersey Devils (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL08/sd
+#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Philadelphia Flyers (12/11 7:10 PM ET)" group-title="TVPass",Vegas Golden Knights @ Philadelphia Flyers (12/11 7:10 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Jose Sharks @ Toronto Maple Leafs (12/11 7:10 PM ET)" group-title="TVPass",San Jose Sharks @ Toronto Maple Leafs (12/11 7:10 PM ET)
+https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Houston Rockets (12/11 8:10 PM ET)" group-title="TVPass",Los Angeles Clippers @ Houston Rockets (12/11 8:10 PM ET)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="" tvg-name="St Louis Blues @ Nashville Predators (12/11 8:10 PM ET)" group-title="TVPass",St Louis Blues @ Nashville Predators (12/11 8:10 PM ET)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ Minnesota Wild (12/11 8:10 PM ET)" group-title="TVPass",Dallas Stars @ Minnesota Wild (12/11 8:10 PM ET)
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Winnipeg Jets (12/11 8:10 PM ET)" group-title="TVPass",Boston Bruins @ Winnipeg Jets (12/11 8:10 PM ET)
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ New Orleans Pelicans (12/11 8:10 PM ET)" group-title="TVPass",Portland Trail Blazers @ New Orleans Pelicans (12/11 8:10 PM ET)
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Milwaukee Bucks (12/11 8:10 PM ET)" group-title="TVPass",Boston Celtics @ Milwaukee Bucks (12/11 8:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Falcons @ Tampa Bay Buccaneers (12/11 8:15 PM ET)" group-title="TVPass",Atlanta Falcons @ Tampa Bay Buccaneers (12/11 8:15 PM ET)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Red Wings @ Edmonton Oilers (12/11 9:10 PM ET)" group-title="TVPass",Detroit Red Wings @ Edmonton Oilers (12/11 9:10 PM ET)
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Florida Panthers @ Colorado Avalanche (12/11 9:40 PM ET)" group-title="TVPass",Florida Panthers @ Colorado Avalanche (12/11 9:40 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Denver Nuggets @ Sacramento Kings (12/11 10:10 PM ET)" group-title="TVPass",Denver Nuggets @ Sacramento Kings (12/11 10:10 PM ET)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo Sabres @ Vancouver Canucks (12/11 10:10 PM ET)" group-title="TVPass",Buffalo Sabres @ Vancouver Canucks (12/11 10:10 PM ET)
+https://tvpass.org/live/NHL17/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
