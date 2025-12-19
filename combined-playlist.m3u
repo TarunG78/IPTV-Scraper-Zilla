@@ -5235,6 +5235,34 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="TVPass",Yes Network
 https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="" tvg-name="Kennesaw State Owls @ Western Michigan Broncos (12/19 11:00 AM ET)" group-title="TVPass",Kennesaw State Owls @ Western Michigan Broncos (12/19 11:00 AM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Memphis Tigers @ NC State Wolfpack (12/19 2:30 PM ET)" group-title="TVPass",Memphis Tigers @ NC State Wolfpack (12/19 2:30 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Carolina Hurricanes @ Florida Panthers (12/19 7:00 PM ET)" group-title="TVPass",Carolina Hurricanes @ Florida Panthers (12/19 7:00 PM ET)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ New York Islanders (12/19 7:00 PM ET)" group-title="TVPass",Vancouver Canucks @ New York Islanders (12/19 7:00 PM ET)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Boston Celtics (12/19 7:10 PM ET)" group-title="TVPass",Miami Heat @ Boston Celtics (12/19 7:10 PM ET)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ New York Knicks (12/19 7:10 PM ET)" group-title="TVPass",Philadelphia 76ers @ New York Knicks (12/19 7:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Atlanta Hawks (12/19 7:40 PM ET)" group-title="TVPass",San Antonio Spurs @ Atlanta Hawks (12/19 7:40 PM ET)
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Cleveland Cavaliers (12/19 7:40 PM ET)" group-title="TVPass",Chicago Bulls @ Cleveland Cavaliers (12/19 7:40 PM ET)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Alabama Crimson Tide @ Oklahoma Sooners (12/19 8:00 PM ET)" group-title="TVPass",Alabama Crimson Tide @ Oklahoma Sooners (12/19 8:00 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Jake Paul Vs. Anthony Joshua (12/19 8:10 Pm Et)" tvg-logo="" group-title="TVPass",Jake Paul Vs. Anthony Joshua (12/19 8:10 Pm Et)
+https://tvpass.org/live/PPV01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Winnipeg Jets @ Colorado Avalanche (12/19 9:00 PM ET)" group-title="TVPass",Winnipeg Jets @ Colorado Avalanche (12/19 9:00 PM ET)
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ Utah Mammoth (12/19 9:00 PM ET)" group-title="TVPass",New Jersey Devils @ Utah Mammoth (12/19 9:00 PM ET)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ Minnesota Timberwolves (12/19 9:40 PM ET)" group-title="TVPass",Oklahoma City Thunder @ Minnesota Timberwolves (12/19 9:40 PM ET)
+https://tvpass.org/live/NBA05/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ Anaheim Ducks (12/19 10:00 PM ET)" group-title="TVPass",Dallas Stars @ Anaheim Ducks (12/19 10:00 PM ET)
+https://tvpass.org/live/NHL27/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
