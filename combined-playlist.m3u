@@ -5235,6 +5235,22 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="TVPass",Yes Network
 https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ New York Knicks (12/25 12:00 PM ET)" group-title="TVPass",Cleveland Cavaliers @ New York Knicks (12/25 12:00 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Cowboys @ Washington Commanders (12/25 1:00 PM ET)" group-title="TVPass",Dallas Cowboys @ Washington Commanders (12/25 1:00 PM ET)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Oklahoma City Thunder (12/25 2:30 PM ET)" group-title="TVPass",San Antonio Spurs @ Oklahoma City Thunder (12/25 2:30 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Lions @ Minnesota Vikings (12/25 4:30 PM ET)" group-title="TVPass",Detroit Lions @ Minnesota Vikings (12/25 4:30 PM ET)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Golden State Warriors (12/25 5:00 PM ET)" group-title="TVPass",Dallas Mavericks @ Golden State Warriors (12/25 5:00 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Los Angeles Lakers (12/25 8:00 PM ET)" group-title="TVPass",Houston Rockets @ Los Angeles Lakers (12/25 8:00 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Denver Broncos @ Kansas City Chiefs (12/25 8:15 PM ET)" group-title="TVPass",Denver Broncos @ Kansas City Chiefs (12/25 8:15 PM ET)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Denver Nuggets (12/25 10:30 PM ET)" group-title="TVPass",Minnesota Timberwolves @ Denver Nuggets (12/25 10:30 PM ET)
+https://tvpass.org/live/ESPN/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
