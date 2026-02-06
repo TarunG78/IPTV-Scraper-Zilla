@@ -5283,6 +5283,18 @@ https://tvpass.org/live/NHL22/sd
 https://tvpass.org/live/NHL03/sd
 #EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ Calgary Flames (12/31 9:30 PM ET)" group-title="TVPass",Philadelphia Flyers @ Calgary Flames (12/31 9:30 PM ET)
 https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Boston Celtics (02/06 7:40 PM ET)" group-title="TVPass",Miami Heat @ Boston Celtics (02/06 7:40 PM ET)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Knicks @ Detroit Pistons (02/06 7:40 PM ET)" group-title="TVPass",New York Knicks @ Detroit Pistons (02/06 7:40 PM ET)
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Pacers @ Milwaukee Bucks (02/06 8:10 PM ET)" group-title="TVPass",Indiana Pacers @ Milwaukee Bucks (02/06 8:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Minnesota Timberwolves (02/06 8:10 PM ET)" group-title="TVPass",New Orleans Pelicans @ Minnesota Timberwolves (02/06 8:10 PM ET)
+https://tvpass.org/live/NBA05/sd
+#EXTINF:-1 tvg-id="" tvg-name="Memphis Grizzlies @ Portland Trail Blazers (02/06 10:00 PM ET)" group-title="TVPass",Memphis Grizzlies @ Portland Trail Blazers (02/06 10:00 PM ET)
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Sacramento Kings (02/06 10:10 PM ET)" group-title="TVPass",Los Angeles Clippers @ Sacramento Kings (02/06 10:10 PM ET)
+https://tvpass.org/live/NBA06/sd
 #=================================
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
